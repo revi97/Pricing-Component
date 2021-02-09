@@ -3,9 +3,9 @@ A simple component which can be part of a web project which shows the pricing an
 
 Screenshots of the project
 
-Web Version
+# Web Version
 ![Web Version](/web.PNG)
 
-Mobile Version
+# Mobile Version
 
 ![Mobile Screen](/Mobile.PNG)
